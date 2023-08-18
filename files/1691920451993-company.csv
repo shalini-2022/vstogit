@@ -1,0 +1,11 @@
+Emp_id,Name,Father_Name,Date_of_Join,M2_Permenant_Date,Date_of_Resignation,Date_of_Birth,Mobile_NO,Postal_Address,Name_of_Nominee,Salary,Designation,Aadhar_No,PAN,Bank_AC_Number,IFSC_code,Emp_status,Company_Name
+,Shalini,Balaji,02-01-2020,01-02-2022,NA,06-10-2002,9487732928,chennai-600091,balaji,30000,Director,4567,NRI34,90875634,CRN12,Onroll,M2-Data Studio
+,Kannaki,Perumal,03-02-2020,02-01-2022,NA,15-07-2003,6381566157,tiruvallur-600052,perumal,35000,Director,2314,NRI23,32456789,CRN23,Onroll,M2-Data Studio
+,Jeeva,Durai,04-03-2020,02-03-2022,NA,15-02-2004,6385596828,ramapuram-600089,durai,30000,Director,5678,NRI12,23145678,IND12,Resigned,M2-Data Studio
+,Sarvini,Bharani Dharan,05-04-2020,16-04-2022,NA,02-05-2001,8778803192,adyar-600020,bharani,25000,Data Analyst,9078,NRI56,89034567,HDFC23,Resigned,M2-Data Studio
+,Durga,Sathish ,01-05-2020,16-05-2022,NA,01-09-2002,7305405913,meenambakkam-600027,sathish,40000,Data Analyst,3456,NRI67,78905643,IND78,Onroll,M2-Data Studio
+,Veni,Raghavan,02-06-2020,23-06-2022,NA,23-05-2001,7904973599,thiruvarur-614016,raghavan,20000,Software eng,1234,NRI78,98765430,CRN45,Onroll,M2-Data Studio
+,Harini,Balaji Rao,07-07-2020,07-07-2022,NA,17-06-2004,8270488613,orathanadu-614625,balajirao,25000,Software eng,7890,NRI89,89674532,CRN34,Resigned,M2-Data Studio
+,Vinomani,Govindharaj,03-08-2020,03-08-2022,NA,25-05-2003,6383238708,tiruvannamalai-606601,govindharaj,30000,Director,3423,NRI90,79045678,HDFC67,Resigned,M2-Data Studio
+,Ragul,Ragupathi,04-09-2020,04-09-2022,NA,07-07-2003,7639496195,kancheepuram-631501,ragupathi,30000,Data Analyst,8956,NRI45,23456709,CRN20,Onroll,M2-Data Studio
+,Bharani,Baskar,06-10-2020,06-10-2022,NA,23-04-2002,7904203688,thanjavur-614302,baskar,25000,Software eng,3489,NRI36,95674532,IND10,Resigned,M2-Data Studio
